@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc"
 )
 
 func main() {

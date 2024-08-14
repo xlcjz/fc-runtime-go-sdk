@@ -6,8 +6,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc"
-	"github.com/aliyun/fc-runtime-go-sdk/fccontext"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc"
+	"github.com/xlcjz/fc-runtime-go-sdk/fccontext"
 
 	"github.com/opentracing/opentracing-go"
 	"github.com/opentracing/opentracing-go/log"

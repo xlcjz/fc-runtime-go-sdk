@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fccontext"
+	"github.com/xlcjz/fc-runtime-go-sdk/fccontext"
 )
 
 type PingRequest struct {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc"
 )
 
 var (

@@ -6,7 +6,7 @@ package fc
 import (
 	"reflect"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc/messages"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc/messages"
 )
 
 func getErrorType(err interface{}) string {

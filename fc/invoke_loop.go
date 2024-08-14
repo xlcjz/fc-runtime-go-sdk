@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc/messages"
-	"github.com/aliyun/fc-runtime-go-sdk/fccontext"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc/messages"
+	"github.com/xlcjz/fc-runtime-go-sdk/fccontext"
 )
 
 const (

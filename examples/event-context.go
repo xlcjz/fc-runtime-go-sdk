@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc"
-	"github.com/aliyun/fc-runtime-go-sdk/fccontext"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc"
+	"github.com/xlcjz/fc-runtime-go-sdk/fccontext"
 )
 
 func main() {

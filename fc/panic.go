@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/aliyun/fc-runtime-go-sdk/fc/messages"
+	"github.com/xlcjz/fc-runtime-go-sdk/fc/messages"
 )
 
 type panicInfo struct {
